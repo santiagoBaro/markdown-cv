@@ -36,29 +36,29 @@ In my current position, I was hired as a semi-senior and had the opportunity to 
 *Tecnólogo en Informática*  
 *Year of Graduation: 2020*
 
-##Skills
--Frontend and Backend Development
--Xamarin, Python, Django
--FullStack Development
--User Experience (UX)
--Golang, Flutter
--AWS Cloud Computing
+## Skills
+- Frontend and Backend Development
+- Xamarin, Python, Django
+- FullStack Development
+- User Experience (UX)
+- Golang, Flutter
+- AWS Cloud Computing
 
-##Certifications and Courses
--Fullstack Bootcamp at BIOS
--AWS Cloud Computing
--Advanced Golang
--Advanced Python
--Flutter
+## Certifications and Courses
+- Fullstack Bootcamp at BIOS
+- AWS Cloud Computing
+- Advanced Golang
+- Advanced Python
+- Flutter
 
-##Languages
--Spanish (Native)
--English (C2 - Active Conversational)
--Portuguese (B1)
+## Languages
+- Spanish (Native)
+- English (C2 - Active Conversational)
+- Portuguese (B1)
 
-##Relevant Projects
--Distributed Database using Golang and Flutter
--App Creator Flutter Firebase
+## Relevant Projects
+- Distributed Database using Golang and Flutter
+- App Creator Flutter Firebase
 
 
 <!-- ### Footer
