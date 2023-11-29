@@ -1,62 +1,64 @@
 ---
 layout: cv
-title: CV de Santiago Baro
+title: Santiago Baro´s CV
 ---
 
 # Santiago Baro
-**Dirección:** Rambla República de México 5871  
-**Teléfono:** 099729314  
-**Correo Electrónico:** sbaro@synrg.software  
-**Sitio Web:** [www.synrg.software](http://www.synrg.software)
+**Address:** Rambla República de México 5871  
+**Phone:** +598 099729314  
+**Email:** sbaro@synrg.software  
+**Website:** [www.synrg.software](http://www.synrg.software)
 
-## Objetivo Profesional
-Busco continuamente crecer como desarrollador, buscando nuevas oportunidades que me desafíen a superar mis límites y expandir mis habilidades. Mi objetivo es formar parte de proyectos significativos que no solo impulsen mi carrera, sino que también tengan un impacto positivo en la industria. Me apasiona el diseño de sistemas eficientes y sostenibles, y busco contribuir con mi experiencia para crear soluciones innovadoras y escalables.
+## Professional Objective
+I am continuously seeking growth as a developer, looking for new opportunities that challenge me to surpass my limits and expand my skills. My goal is to be part of meaningful projects that not only advance my career but also have a positive impact on the industry. I am passionate about designing efficient and sustainable systems, and I aim to contribute my expertise to create innovative and scalable solutions.
 
-## Experiencia Laboral
+## Work Experience
 
 ### Frontend Developer | UxDivers
-*Periodo de empleo: 1 año*
+*Employment Period: 1 year*
 
-En mi primer trabajo en la empresa UX Divers, comencé como junior y tuve la oportunidad de trabajar con Xamarin, desarrollando aplicaciones multiplataforma. A lo largo de mi tiempo allí, participé en varios proyectos diversos que me permitieron aprender de manera significativa. Este trabajo me brindó una sólida base en el desarrollo de aplicaciones móviles y me ayudó a adquirir habilidades valiosas en el campo de la experiencia de usuario (UX).
+In my first job at UX Divers, I started as a junior and had the opportunity to work with Xamarin, developing cross-platform applications. Throughout my time there, I participated in various diverse projects that allowed me to learn significantly. This job provided me with a solid foundation in mobile application development and helped me acquire valuable skills in the field of user experience (UX).
 
 ### Backend Developer | TCC
-*Periodo de empleo: 1 año y 8 meses*
+*Employment Period: 1 year and 8 months*
 
-En mi segundo puesto en TCC, la empresa de cable, trabajé como backend developer utilizando Python y Django. En este rol, asumí mayores responsabilidades y experimenté un considerable crecimiento profesional. Aprendí mucho acerca del desarrollo de aplicaciones web y de cómo gestionar sistemas de backend de manera eficiente. Este trabajo fue una etapa clave en mi desarrollo como desarrollador.
+In my second position at TCC, the cable company, I worked as a backend developer using Python and Django. In this role, I took on greater responsibilities and experienced considerable professional growth. I learned a lot about web application development and how to efficiently manage backend systems. This job was a key stage in my development as a developer.
+
 
 ### FullStack Developer | Codigo del Sur
-*Periodo de empleo: +2 años*
+*Employment Period: +2 years*
 
-En mi puesto actual, fui contratado como semi senior y tuve la oportunidad de aplicar todo lo que aprendí en mis empleos anteriores. Pude liderar proyectos y tomar decisiones más autónomas en cuanto a cómo abordar tareas y desafíos. Esto me permitió elevar mi nivel de conocimiento y experiencia, ya que no solo seguía instrucciones, sino que también proponía y diseñaba la forma de abordar las tareas. Este rol me ha brindado un crecimiento significativo en mi carrera y un mayor grado de independencia en mi trabajo.
+In my current position, I was hired as a semi-senior and had the opportunity to apply everything I learned in my previous jobs. I could lead projects and make more autonomous decisions on how to approach tasks and challenges. This allowed me to elevate my level of knowledge and experience, as I not only followed instructions but also proposed and designed how to tackle tasks. This role has provided significant growth in my career and a higher degree of independence in my work.
 
-## Educación
+
+## Education
 **Universidad de la República**  
 *Tecnólogo en Informática*  
-*Año de Graduación: 2020*
+*Year of Graduation: 2020*
 
-## Habilidades
-- Desarrollo Frontend y Backend
-- Xamarin, Python, Django
-- FullStack Development
-- Experiencia de Usuario (UX)
-- Golang, Flutter
-- AWS Cloud Computing
+##Skills
+-Frontend and Backend Development
+-Xamarin, Python, Django
+-FullStack Development
+-User Experience (UX)
+-Golang, Flutter
+-AWS Cloud Computing
 
-## Certificaciones y Cursos
-- Bootcamp Fullstack en BIOS
-- AWS Cloud Computing
-- Golang Avanzado
-- Python Avanzado
-- Flutter
+##Certifications and Courses
+-Fullstack Bootcamp at BIOS
+-AWS Cloud Computing
+-Advanced Golang
+-Advanced Python
+-Flutter
 
-## Idiomas
-- Español (Nativo)
-- Inglés (C2 - Active Conversational)
-- Portugués (B1)
+##Languages
+-Spanish (Native)
+-English (C2 - Active Conversational)
+-Portuguese (B1)
 
-## Proyectos Relevantes
-- **Distributed Database using Golang and Flutter**
-- **App Creator Flutter Firebase**
+##Relevant Projects
+-Distributed Database using Golang and Flutter
+-App Creator Flutter Firebase
 
 
 <!-- ### Footer
