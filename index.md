@@ -1,91 +1,66 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV de Santiago Baro
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Santiago Baro
+**Dirección:** Rambla República de México 5871  
+**Teléfono:** 099729314  
+**Correo Electrónico:** sbaro@synrg.software  
+**Sitio Web:** [www.synrg.software](http://www.synrg.software)
 
+## Objetivo Profesional
+Busco continuamente crecer como desarrollador, buscando nuevas oportunidades que me desafíen a superar mis límites y expandir mis habilidades. Mi objetivo es formar parte de proyectos significativos que no solo impulsen mi carrera, sino que también tengan un impacto positivo en la industria. Me apasiona el diseño de sistemas eficientes y sostenibles, y busco contribuir con mi experiencia para crear soluciones innovadoras y escalables.
 
-## Currently
+## Experiencia Laboral
 
-Standing on the shoulders of giants
+### Frontend Developer | UxDivers
+*Periodo de empleo: 1 año*
 
-### Specialized in
+En mi primer trabajo en la empresa UX Divers, comencé como junior y tuve la oportunidad de trabajar con Xamarin, desarrollando aplicaciones multiplataforma. A lo largo de mi tiempo allí, participé en varios proyectos diversos que me permitieron aprender de manera significativa. Este trabajo me brindó una sólida base en el desarrollo de aplicaciones móviles y me ayudó a adquirir habilidades valiosas en el campo de la experiencia de usuario (UX).
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Backend Developer | TCC
+*Periodo de empleo: 1 año y 8 meses*
 
+En mi segundo puesto en TCC, la empresa de cable, trabajé como backend developer utilizando Python y Django. En este rol, asumí mayores responsabilidades y experimenté un considerable crecimiento profesional. Aprendí mucho acerca del desarrollo de aplicaciones web y de cómo gestionar sistemas de backend de manera eficiente. Este trabajo fue una etapa clave en mi desarrollo como desarrollador.
 
-### Research interests
+### FullStack Developer | Codigo del Sur
+*Periodo de empleo: +2 años*
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+En mi puesto actual, fui contratado como semi senior y tuve la oportunidad de aplicar todo lo que aprendí en mis empleos anteriores. Pude liderar proyectos y tomar decisiones más autónomas en cuanto a cómo abordar tareas y desafíos. Esto me permitió elevar mi nivel de conocimiento y experiencia, ya que no solo seguía instrucciones, sino que también proponía y diseñaba la forma de abordar las tareas. Este rol me ha brindado un crecimiento significativo en mi carrera y un mayor grado de independencia en mi trabajo.
 
+## Educación
+**Universidad de la República**  
+*Tecnólogo en Informática*  
+*Año de Graduación: 2020*
 
-## Education
+## Habilidades
+- Desarrollo Frontend y Backend
+- Xamarin, Python, Django
+- FullStack Development
+- Experiencia de Usuario (UX)
+- Golang, Flutter
+- AWS Cloud Computing
 
-`1654-1660`
-__The King's School, Grantham.__
+## Certificaciones y Cursos
+- Bootcamp Fullstack en BIOS
+- AWS Cloud Computing
+- Golang Avanzado
+- Python Avanzado
+- Flutter
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Idiomas
+- Español (Nativo)
+- Inglés (C2 - Active Conversational)
+- Portugués (B1)
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+## Proyectos Relevantes
+- **Distributed Database using Golang and Flutter**
+- **App Creator Flutter Firebase**
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Nov 2023 -->
 
 
