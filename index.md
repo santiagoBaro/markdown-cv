@@ -38,11 +38,11 @@ In my current position, I was hired as a semi-senior and had the opportunity to 
 
 ## Skills
 - Frontend and Backend Development
-- Xamarin, Python, Django
-- FullStack Development
+- Backend: Golang, Python, Django
+- Frontend: Flutter, Xamarin, React
 - User Experience (UX)
-- Golang, Flutter
 - AWS Cloud Computing
+- Firebase
 
 ## Certifications and Courses
 - Fullstack Bootcamp at BIOS
