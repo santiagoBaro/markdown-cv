@@ -4,7 +4,7 @@ title: Santiago Baro´s CV
 ---
 
 # Santiago Baro
-**Location:** Montevideo, Uruguay 
+**Location:** Montevideo, Uruguay  
 **Phone:** +598 099729314  
 **Email:** sbaro@synrg.software  
 **Website:** [www.synrg.software](http://www.synrg.software)
