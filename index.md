@@ -32,6 +32,10 @@ In my second position at TCC, the cable company, I worked as a backend developer
 
 In my current position, I was hired as a semi-senior and had the opportunity to apply everything I learned in my previous jobs. I could lead projects and make more autonomous decisions on how to approach tasks and challenges. This allowed me to elevate my level of knowledge and experience, as I not only followed instructions but also proposed and designed how to tackle tasks. This role has provided significant growth in my career and a higher degree of independence in my work.
 
+### FullStack Developer | FlowLabs
+*Employment Period: 1 year - current*
+As a Senior Developer at FlowLabs, I worked on three Flutter-based projects for US-based clients, including a medical app, a tournament hosting platform, and a social media app. Most of the projects used Firebase as the backend, while for the social media app, I integrated with a GraphQL server provided by the client. I collaborated with other senior developers in a flat, independent team structure, and together we delivered robust, scalable applications that clients were extremely satisfied with in terms of both time and quality. Additionally, we used the OpenAI API to automate many of our daily tasks.
+
 
 ## Education
 **Universidad de la República**  
